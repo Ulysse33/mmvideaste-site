@@ -1,4 +1,4 @@
-Jekyll or HTML starterkit
+Jekyll or HTML starterkit FUck you
 =====
 
 [![CircleCI](https://circleci.com/gh/dcycle/starterkit-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-jekyll/tree/master)
